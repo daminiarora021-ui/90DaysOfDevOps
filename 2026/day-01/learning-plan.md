@@ -1,8 +1,8 @@
-# current level 
+# Current level 
 working as an insurance advisor in sales and service 
 
 
-# understanding of DevOps and Cloud Engineering?
+# Understanding of DevOps and Cloud Engineering?
 - DevOps was formed to fill the gap between development and operation teams to focus more on CI/CD , to manage  IAC (infrastructire as code)  and to monitor application 
 whereas , cloud enginerring is more about managing cloud infrastructure , server and services to ensure reliability and scalibility 
 
