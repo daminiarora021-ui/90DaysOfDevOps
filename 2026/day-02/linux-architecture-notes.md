@@ -35,8 +35,8 @@ Systemd is the default system and service manager for most modern Linux distribu
 
 
 ##  List **5 commands** you would use daily
-+ pwd             --- Present work directory 
-+ df -h            --- Displays disk space usage in human readable format  
-+ ps aux           --- Display all processes for all users 
-+ Top              --- Display real time CPU & Memory usage 
-+ system clt       --- starting, stopping, restarting, or reloading a daemon 
++ pwd       :   Present work directory 
++ df -h           : Displays disk space usage in human readable format  
++ ps aux           : Display all processes for all users 
++ Top              : Display real time CPU & Memory usage 
++ system clt       : starting, stopping, restarting, or reloading a daemon 
