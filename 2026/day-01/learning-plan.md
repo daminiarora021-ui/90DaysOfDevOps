@@ -16,8 +16,8 @@ whereas , cloud enginerring is more about managing cloud infrastructure , server
 
 # Where do you want to reach?
 - want to land myself in new job as devops/cloud engineer in any big firm in canada /USA 
-- Aiming  to get the package of atleast 100k 
-- 
+- aim for at least a 100k package
+
 
 
 # How you will stay consistent every single day?
