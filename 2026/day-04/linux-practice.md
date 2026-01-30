@@ -43,6 +43,10 @@ Run and record output for **at least 6 commands**
 
   output :
 
+  ![nginx1](images/ngnix1.jpg)
+
+  ![ngnix2](images/ngnix2.jpg)
+
   . tail -n 30 = prints the last few number of lines (10 lines by default) of a certain file, then terminates.
  - i used this command to specify the file tail -n 50 /var/log/syslog
 
