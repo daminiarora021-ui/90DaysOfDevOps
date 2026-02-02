@@ -16,7 +16,7 @@ Run and record output for **at least 6 commands**
 
 3. ps aux - display a comprehensive list of all currently running processes on the system .
 
-![aux](images/aux.jpg)
+![psaux](images/psaux.jpg)
 
 
 **service commands** (`systemctl status`, `systemctl list-units`, etc.)
