@@ -74,7 +74,7 @@ observation - no signs of service failure , no crashes or persistent SSH errors 
 
 * snapshot Logs 
 
-![log](images/log.jpg)
+![logs](images/logs.jpg)
 
 
 
