@@ -7,12 +7,23 @@
 Command : `uname -a`, `lsb_release -a` (or `cat /etc/os-release`)
 observation : kernal version , architecture and ubuntu details .
 
+![1](images/1.jpg)
+
+
+![2](images/2.jpg)
+
+
+
+
 
 **Filesystem sanity** 
 Command :  mkdir /tmp/textbook-demo
 cp /etc/hosts /tmp/textbook-demo/hosts-copy && ls -l /tmp/textbook-demo
 
 Observation: copied file can be seen in listed directory 
+
+![3](images/3.jpg)
+
 
 
 
@@ -24,7 +35,13 @@ Observation: copied file can be seen in listed directory
 Observation: System memory usage is moderate and no swap configured
 
 Snapshot: CPU & Memory
+![4](images/4.jpg)
 
+
+![5](images/5.jpg)
+
+
+![6](images/6.jpg)
 
 
 **Disk / IO** 
@@ -36,34 +53,33 @@ Observation: Root filesystem is only 12% utilized (17GB available), indicating a
 /var/log is only 32MB, indicating logs are under control and not contributing to disk space issues.
 
  Snapshot: Disk & IO
-
+ 
+![7](images/7.jpg)
 
 
 
 **Network (2):** `ss -tulpn`/`netstat -tulpn`, `curl -I <service-endpoint>`/`ping`
-Observation 
 
 * Snapshot: Network
 
+![net1](images/net1.jpg)
+
+![net2](images/net2.jpg)
 
 
 
 
 **Logs (2):**  journalctl -u ssh -n 50
 observation - no signs of service failure , no crashes or persistent SSH errors detected.
-* Logs reviewed
 
+* snapshot Logs 
 
+![log](images/log.jpg)
 
 
 
 *  Quick findings
-
-
-
-
-
-* If this worsens (next steps) 
-- restart SSH and monitor logs 
-- re-check logs 
-- investigate authentication failure 
+- SSH is working fine 
+- CPU and memory is moderate 
+- disk space is under control 
+- no SSH errors detected
