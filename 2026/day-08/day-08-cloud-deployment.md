@@ -46,4 +46,11 @@ You should see the **Nginx welcome page**!
 
 📸 **Screenshot this page** - you'll need it for submission
 
+screenshot :
+![6](images/6.jpg)
+
+
+
+![7](images/7.jpg)
+
 
